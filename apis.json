@@ -1,0 +1,52 @@
+{
+    "name": "Traindom",
+    "description": "The easiest way to start your online business. Set up your information marketing, content subscription or membership site business without any technical skills.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1851-traindom.jpg",
+    "tags": [
+        "have api",
+        "trainings"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/traindom\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Traindom",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1851-traindom.jpg",
+            "humanURL": "http:\/\/traindom.com\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/traindom-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/traindom.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/traindom"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/traindom"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/traindom"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/traindom.com\/api\/"
+        }
+    ]
+}
